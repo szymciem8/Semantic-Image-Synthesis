@@ -1,1 +1,1 @@
-# Semantic-Image-Synthesis-of-Lunar-Landscape
+# Semantic-Image-Synthesis
