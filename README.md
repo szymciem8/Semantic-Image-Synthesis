@@ -16,12 +16,4 @@
     <td><img src="images/input_mask_0.png" width=256></td>
     <td><img src="images/prediction_0.png" width=256></td>
   </tr>
-  <tr>
-    <td><img src="images/input_mask_1.png" width=256></td>
-    <td><img src="images/prediction_1.png" width=256></td>
-  </tr>
-  <tr>
-    <td><img src="images/input_mask_2.png" width=256></td>
-    <td><img src="images/prediction_3.png" width=256></td>
-  </tr>
  </table>
