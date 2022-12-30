@@ -13,7 +13,7 @@
      <td>After</td>
   </tr>
   <tr>
-    <td><img src="test_images/input_mask_0.png" width=475></td>
-    <td><img src="test_images/prediction_0.png" width=475></td>
+    <td><img src="images/input_mask_0.png" width=475></td>
+    <td><img src="images/prediction_0.png" width=475></td>
   </tr>
  </table>
