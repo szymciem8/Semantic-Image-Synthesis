@@ -17,7 +17,7 @@ Model that generates paintings in the style of Bob Ross. It takes segmentation i
   </tr>
   <tr>
     <td><img src="images/input_mask_0.png" width=256></td>
-    <td><img src="images/ground_truth_0.png" width=256></td>
+<!--     <td><img src="images/ground_truth_0.png" width=256></td> -->
     <td><img src="images/prediction_0.png" width=256></td>
   </tr>
  </table>
