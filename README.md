@@ -7,8 +7,31 @@
 
 Model that generates paintings in the style of Bob Ross. It takes segmentation image as an input. 
 
+## Exmaples of GauGan
 
-## Exmaples
+<table>
+  <tr>
+     <td>Before</td>
+     <td>After</td>
+  </tr>
+  <tr>
+    <td><img src="images/gaugan_input_mask_0.png" width=256></td>
+    <td><img src="images/gaugan_ground_truth_0.png" width=256></td>
+    <td><img src="images/gaugan_prediction_0.png" width=256></td>
+  </tr>
+  <tr>
+    <td><img src="images/gaugan_input_mask_1.png" width=256></td>
+    <td><img src="images/gaugan_ground_truth_1.png" width=256></td>
+    <td><img src="images/gaugan_prediction_1.png" width=256></td>
+  </tr>
+  <tr>
+    <td><img src="images/gaugan_input_mask_2.png" width=256></td>
+    <td><img src="images/gaugan_ground_truth_2.png" width=256></td>
+    <td><img src="images/gaugan_prediction_2.png" width=256></td>
+  </tr>
+ </table>
+
+## Exmaples of Pix2Pix
 
 <table>
   <tr>
