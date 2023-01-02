@@ -11,8 +11,9 @@ Model that generates paintings in the style of Bob Ross. It takes segmentation i
 
 <table>
   <tr>
-     <td>Before</td>
-     <td>After</td>
+      <td>Segmentation Map</td>
+      <td>Ground Truth</td>
+      <td>Generated Image</td>
   </tr>
   <tr>
     <td><img src="images/gaugan_input_mask_0.png" width=256></td>
@@ -35,8 +36,9 @@ Model that generates paintings in the style of Bob Ross. It takes segmentation i
 
 <table>
   <tr>
-     <td>Before</td>
-     <td>After</td>
+      <td>Segmentation Map</td>
+      <td>Ground Truth</td>
+      <td>Generated Image</td>
   </tr>
   <tr>
     <td><img src="images/input_mask_0.png" width=256></td>
