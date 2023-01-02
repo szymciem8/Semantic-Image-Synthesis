@@ -7,7 +7,7 @@
 
 Model that generates paintings in the style of Bob Ross. It takes segmentation image as an input. 
 
-## Exmaples of GauGan
+## Exmaples of GauGAN
 
 <table>
   <tr>
