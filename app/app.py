@@ -9,7 +9,7 @@ def main():
 
     st.markdown(
     """
-    This is an AI tool powered by generative model which generates paintings in a style of Bob Ross. 
+    This AI application harnesses the capabilities of a GAN to produce artistry reminiscent of Bob Ross. Operating on segmentation masks, it meticulously crafts paintings that faithfully embody the distinctive style associated with the renowned artist. 
 
     View the source code on [github](https://github.com/szymciem8/Semantic-Image-Synthesis).
     
@@ -57,8 +57,8 @@ def main():
 
 if __name__ == "__main__":
     st.set_page_config(
-        page_title="Streamlit Drawable Canvas Demo", page_icon=":pencil2:"
+        page_title="Bob Ross AI Painter", page_icon=":pencil2:"
     )
-    st.title("Bob Ross Painter")
+    st.title("Bob Ross AI Painter")
     st.sidebar.header("Configuration")
     main()
