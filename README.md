@@ -13,7 +13,7 @@ You can interact with the models through a Streamlit application.
 
 The app is built with Docker. Use the command below to start the app locally. 
 ```
-docker-compose up 
+docker-compose -f docker-compose.dev.yml up 
 ```
 
 ## Exmaples of GauGAN
