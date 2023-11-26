@@ -5,6 +5,17 @@
 [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat&logo=Jupyter)](https://jupyter.org/try)
 
 
+## Bob Ross AI Painter
+
+You can interact with the models through a Streamlit application. 
+
+![app](/images/bob-ross-ai-painter-screen-1.png)
+
+The app is built with Docker. Use the command below to start the app locally. 
+```
+docker-compose up 
+```
+
 Model that generates paintings in the style of Bob Ross. It takes segmentation image as an input. 
 
 ## Exmaples of GauGAN
