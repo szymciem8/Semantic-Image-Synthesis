@@ -16,8 +16,6 @@ The app is built with Docker. Use the command below to start the app locally.
 docker-compose up 
 ```
 
-Model that generates paintings in the style of Bob Ross. It takes segmentation image as an input. 
-
 ## Exmaples of GauGAN
 
 <table>
